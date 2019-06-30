@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyMovie</string>
+    <string name="onShow">正在热映</string>
+    <string name="movieName">名字</string>
+    <string name="movieType">类型：</string>
+    <string name="spinnerText">请选择</string>
+
+    <string-array name="movie_types">
+        <item>请选择</item>
+        <item>动作</item>
+        <item>科幻</item>
+        <item>冒险</item>
+        <item>剧情</item>
+        <item>传记</item>
+        <item>犯罪</item>
+        <item>悬疑</item>
+        <item>戏剧</item>
+        <item>爱情</item>
+        <item>动画</item>
+        <item>奇幻</item>
+        <item>运动</item>
+        <item>惊悚</item>
+        <item>恐怖</item>
+        <item>戏曲</item>
+
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
